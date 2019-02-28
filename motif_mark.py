@@ -81,8 +81,8 @@ motifs_txt = args.motifs
 output_folder = args.output
 
 #check for file types
-if ".fa" not in gene_name:
-	exit("gene file was not a fasta file with extension .fa or .txt")
+if ".fa" not in genes_txt:
+	exit("gene file was not a fasta file with extension .fa or .fasta")
 if ".txt" not in motifs_txt:
 	exit("motifs file did not have extention .txt")
 
