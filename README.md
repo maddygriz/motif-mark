@@ -1,6 +1,6 @@
 # Motif-Mark
 
-Program to make a figure that marks motifs on gene
+Program to make a figure that marks motifs and exons on gene
 
 - One image is created for each gene in fasta file
 
