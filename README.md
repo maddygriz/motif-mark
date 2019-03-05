@@ -16,7 +16,7 @@ To use program run the program with these flags.
 
 - -f type of image file (default = .svg, suggestions = .png, .jpeg), OPTIONAL
 
-- -c color scheme of image (default = general, options = blues, reds, random), OPTIONAL
+- -c color scheme of image (default = general, options = blues, reds, random, general), OPTIONAL
 
 <br />
 
