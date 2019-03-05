@@ -1,6 +1,6 @@
 # Motif-Mark
 
-Assignment to make a figure that marks motifs on gene 
+Program to make a figure that marks motifs on gene 
 
 
 Example of generated figure:
