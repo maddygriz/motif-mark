@@ -14,7 +14,7 @@ To use program run the program with these flags.
 
 - -o file to output images, REQUIRED
 
-- -f type of image file (default = .svg, options = .png, .jpeg), OPTIONAL
+- -f type of image file (default = .svg, suggestions = .png, .jpeg), OPTIONAL
 
 - -c color scheme of image (default = general, options = blues, reds, random), OPTIONAL
 
